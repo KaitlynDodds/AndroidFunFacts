@@ -2,5 +2,5 @@
     <string name="app_name">Fun Facts</string>
     <string name="title_text">Did you know...</string>
     <string name="fun_fact_text">Ants stretch when they wake up in the morning.</string>
-    <string name="fun_fact_button_text">Fun Fact</string>
+    <string name="fun_fact_button_text">Show Another Fun Fact</string>
 </resources>
